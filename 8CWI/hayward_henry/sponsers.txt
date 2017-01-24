@@ -1,0 +1,38 @@
+<!doctype html>
+<head>
+  <meta charset="utf-8">
+  <title>Assessment HTML5 Page</title>
+  <meta name="description" content="Welcome to my website.">
+  <link rel="stylesheet" href="assessmentCSSV2.2.css">
+</head>
+ 
+<body> 
+
+ <div id="header">
+<h1>skateboarding</h1>
+</div>
+
+<div id="nav">
+Skateboarding<br>
+Sponsers<br>
+Contests<br>
+</div>
+
+<div id="section">
+<h1>Skateboarding</h1>
+<hr>
+<p>
+skateboarding is a facinating sport originating in the 1950s with a 2x4 and roller blade trucks. 
+Early skateboarders were called sidewak surfers as they were sufing with no waves.
+ </p>
+ <img src="pedestrian.jpg">
+ <p>
+However since these times skateboarding has evolved with the increasing to do more with the ability to roll.
+</p>
+</div>
+<div id="footer">
+Some information here
+</div>
+
+</body>
+</html>

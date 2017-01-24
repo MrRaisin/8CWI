@@ -1,0 +1,32 @@
+<style>
+#header {
+    background-color:black;
+    color:green;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px; 
+}
+#section {
+    width:350px;
+    float:left;
+    padding:10px; 
+}
+#Paragraph {color:white;
+                        }  
+
+	body {
+        background-image: url("628592.jpg")
+}  
+    img{border-radius: 25px;
+				   }
+				   
+	h1{color:white;
+	}
+</style>
